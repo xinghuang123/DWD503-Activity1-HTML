@@ -1,0 +1,34 @@
+/* comment-box in "Contact" page*/
+#comment-box {
+    background-color: lightgray;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* heading of every page */
+#Logo {
+    display: flex;
+}
+
+/* "index" page layout*/
+#Home-content {
+    display: flex;
+}
+
+/* "index" page word font style */
+#home-h2 {
+    font-style: italic;
+}
+
+/* "index" page word position */
+#welcome {
+    padding-top: 50px;
+}
+
+/* "Content" page layout */
+/* .content {
+    display: flex;
+} */
